@@ -1,4 +1,4 @@
-# Finance Control System / Sistema de Contole de Finanças
+# Finance Control System / Sistema de Contole Financeiro
 ### A simple financial control system. I did it especially to practice, but it ended up being very useful for me to organize myself financially.
 ### Um sistema de controle financeiro simples. Fiz especialmente para praticar, mas acabou sendo muito útil para me organizar financeiramente.
 
